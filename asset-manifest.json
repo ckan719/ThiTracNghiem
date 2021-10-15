@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ckan719.github.io/ThiTracNghiem/static/css/main.a6a853a7.chunk.css",
+    "main.js": "/ckan719.github.io/ThiTracNghiem/static/js/main.1655134c.chunk.js",
+    "main.js.map": "/ckan719.github.io/ThiTracNghiem/static/js/main.1655134c.chunk.js.map",
+    "runtime-main.js": "/ckan719.github.io/ThiTracNghiem/static/js/runtime-main.9d1469fe.js",
+    "runtime-main.js.map": "/ckan719.github.io/ThiTracNghiem/static/js/runtime-main.9d1469fe.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/ckan719.github.io/ThiTracNghiem/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ecefd01f.chunk.js": "/ckan719.github.io/ThiTracNghiem/static/js/2.ecefd01f.chunk.js",
+    "static/js/2.ecefd01f.chunk.js.map": "/ckan719.github.io/ThiTracNghiem/static/js/2.ecefd01f.chunk.js.map",
+    "static/js/3.add3f48b.chunk.js": "/ckan719.github.io/ThiTracNghiem/static/js/3.add3f48b.chunk.js",
+    "static/js/3.add3f48b.chunk.js.map": "/ckan719.github.io/ThiTracNghiem/static/js/3.add3f48b.chunk.js.map",
+    "index.html": "/ckan719.github.io/ThiTracNghiem/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/ckan719.github.io/ThiTracNghiem/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.a6a853a7.chunk.css.map": "/ckan719.github.io/ThiTracNghiem/static/css/main.a6a853a7.chunk.css.map",
+    "static/js/2.ecefd01f.chunk.js.LICENSE.txt": "/ckan719.github.io/ThiTracNghiem/static/js/2.ecefd01f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ckan719.github.io/ThiTracNghiem/static/media/background.2739b851.jpg",
+    "static/media/logo.6ce24c58.svg": "/ckan719.github.io/ThiTracNghiem/static/media/logo.6ce24c58.svg",
+    "static/media/thithu.3d8dd9a1.png": "/ckan719.github.io/ThiTracNghiem/static/media/thithu.3d8dd9a1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d1469fe.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ecefd01f.chunk.js",
+    "static/css/main.a6a853a7.chunk.css",
+    "static/js/main.1655134c.chunk.js"
+  ]
+}
